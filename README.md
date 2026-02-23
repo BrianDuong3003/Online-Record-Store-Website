@@ -5,6 +5,8 @@ This is Web Development Project as Assignment in Semester 232.
 If you would like to use it for personal purposes, please clone this repository and run the below
 commands.
 
+The project has been transferred from the old GitHub account with the now-deactivated edu email to the GitHub account with the personal email.
+
 # How to install
 ```bash
 1. git clone https://github.com/BrianDuong3003/Online-Record-Store-Website.git
