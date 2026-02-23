@@ -28,7 +28,7 @@ You need to host the api folder (Ex: Using xampp)
 5. Connect to http://localhost/test/config.php to test connection
 ```
 
-# Illustration
+# Illustrations
 <img width="1917" height="887" alt="Guest01" src="https://github.com/user-attachments/assets/a34795c8-ec9a-45d7-8dbd-b44f66ffbd3d" />
 <img width="1918" height="883" alt="Guest02" src="https://github.com/user-attachments/assets/4a96f00b-d5e5-4cb4-89c3-36e3eb816277" />
 <img width="1918" height="888" alt="Guest03" src="https://github.com/user-attachments/assets/427ae612-5643-4a5d-a75a-3bad7ad01f75" />
@@ -39,5 +39,4 @@ You need to host the api folder (Ex: Using xampp)
 <img width="842" height="835" alt="Guest08" src="https://github.com/user-attachments/assets/091cc37f-f734-4854-8ec7-77e5f07bb8e9" />
 <img width="825" height="811" alt="Guest09" src="https://github.com/user-attachments/assets/3d1b88c9-fe16-452d-8f38-40c45b25f631" />
 <img width="836" height="842" alt="Guest10" src="https://github.com/user-attachments/assets/e0ca021b-a1c9-4ec9-847f-f4c0b098ac88" />
-<img width="1918" height="891" alt="Guest11" src="https://github.com/user-attachments/assets/a14ee047-ed5c-46ae-a647-1418e134f080" />
 
