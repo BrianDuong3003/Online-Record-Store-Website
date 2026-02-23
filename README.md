@@ -29,6 +29,8 @@ You need to host the api folder (Ex: Using xampp)
 ```
 
 # Illustrations
+Some images to illustrate the website
+
 <img width="1917" height="887" alt="Guest01" src="https://github.com/user-attachments/assets/a34795c8-ec9a-45d7-8dbd-b44f66ffbd3d" />
 <img width="1918" height="883" alt="Guest02" src="https://github.com/user-attachments/assets/4a96f00b-d5e5-4cb4-89c3-36e3eb816277" />
 <img width="1918" height="888" alt="Guest03" src="https://github.com/user-attachments/assets/427ae612-5643-4a5d-a75a-3bad7ad01f75" />
